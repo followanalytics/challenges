@@ -1,7 +1,7 @@
 # FollowAnalytics Challenges
 
 
-Our coding challenges that for the different teams.
+Our coding challenges for the different teams.
 
 If you want to join the engineering team, you'll most likely
 have to complete one of our code challenges:
