@@ -6,8 +6,8 @@ Our coding challenges for the different teams.
 If you want to join the engineering team, you'll most likely
 have to complete one of our code challenges:
 
-- [Backend](https://github.com/followanalytics/tree/master/backend)
-- [SRE](https://github.com/followanalytics/tree/master/SRE)
+- [Backend](https://github.com/followanalytics/challenges/tree/master/backend)
+- [SRE](https://github.com/followanalytics/challenges/tree/master/SRE)
 
 To get to know us better [FollowAnalytics](https://followanalytics.com),
 check out our [blog](https://medium.com/followanalytics).
